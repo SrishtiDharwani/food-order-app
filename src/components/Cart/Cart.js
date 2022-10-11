@@ -91,7 +91,7 @@ const Cart = (props) => {
 
   const didSbmitModalContent = (
     <React.Fragment>
-      <p>Yay!! Order Confirmed.</p>
+      <p>Yay!! Order Confirmed🥳.</p>
       <div className={classes.actions}>
         <button className={classes.button} onClick={props.onClose}>
           Close
